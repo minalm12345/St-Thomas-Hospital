@@ -1,2 +1,0 @@
-# St-Thomas-Hospital
-Hospital
